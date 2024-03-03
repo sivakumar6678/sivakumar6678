@@ -1,9 +1,9 @@
 ## About Me:
-- 👋 Hi, I’m @sivakumar6678
+- 👋 Hi, I’m @sivakumar
 - 👀 I’m interested in web development, photography, and exploring new technologies.
 - 🌱 I’m currently learning Python, Django, and Flask development.
 - 💞️ I’m looking to collaborate on open-source projects related to web development.
-- 📫 You can reach me via email at [your_email@example.com](mailto:your_email@example.com).
+- 📫 You can reach me via email at (mailto:sivakumarcsk66@gmail.com).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy experimenting with new coding languages and frameworks in my free time.
 
@@ -27,12 +27,11 @@ We are a dynamic and passionate community of tech enthusiasts from Government Po
 - Technical Quiz Competition: A challenging quiz testing participants' knowledge in technology and computer science.
 
 ## How to Get Involved:
-- Join us on [our website](insert_link_here) to stay updated on upcoming events and initiatives.
 - Contribute to our repository by sharing project ideas, resources, or feedback.
 - Connect with fellow members and collaborate on exciting projects and initiatives.
 
 ## Contact Us:
-For inquiries or collaboration opportunities, feel free to reach out to us at [email@example.com](mailto:email@example.com).
+For inquiries or collaboration opportunities, feel free to reach out to us at (mailto:sivakumarcsk66@gmail.com).
 
 
 Feel free to customize this README file with your specific details and preferences. It serves as a welcoming and informative guide for visitors to your GitHub profile and community repository.
