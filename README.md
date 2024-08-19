@@ -54,7 +54,8 @@ I am a motivated individual with a diploma in Computer Engineering from Governme
 - He/Him
 
 ### ⚡ Fun Fact:
-- I transitioned to using Ubuntu for development due to my laptop's slow performance with Windows, and I've been loving the experience!
+- I transitioned to using Ubuntu and Fedora for development due to my laptop's slow performance with Windows, and I've been loving the experience!
+- I am More woking on fedora for developement and editing in windows
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="banner" width="100%" /></p>
