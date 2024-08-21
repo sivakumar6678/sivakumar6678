@@ -133,6 +133,7 @@ I am a motivated individual with a diploma in Computer Engineering from Governme
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivakumar6678&show_icons=true&locale=en&layout=compact" alt="sivakumar6678" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivakumar6678&show_icons=true&locale=en" alt="sivakumar6678" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivakumar6678&show_icons=true&locale=en&v=1" alt="sivakumar6678" />
+</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivakumar6678&" alt="sivakumar6678" /></p>
