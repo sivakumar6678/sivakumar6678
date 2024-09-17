@@ -33,8 +33,8 @@ I am a motivated individual with a diploma in Computer Engineering from Governme
   - Assisted team members with resolving issues and integrating components.
 
 ### 🔧 Skills:
-- **Web Development**: HTML, CSS, Bootstrap, JavaScript, PHP, MySQL
-- **Frameworks**: Angular, Django, Flask
+- **Web Development**: HTML, CSS, Bootstrap, JavaScript,TypeScript, PHP, MySQL
+- **Frameworks**: Angular, React , Django, Flask
 - **Design**: Adobe Photoshop,Canva
 - **Tools**: Git, GitHub, Postman
 
