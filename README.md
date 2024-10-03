@@ -1,65 +1,78 @@
-
-<h1 align="center">Hi 👋, I'm C SIVA KUMAR</h1>
-<h3 align="center">A passionate FullStack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm C. SIVA KUMAR</h1>
+<h3 align="center">A Passionate Full Stack Web Developer</h3>
 
 <p align="center">
-<img src="https://apptha-blog.s3.amazonaws.com/blog/wp-content/uploads/2019/11/skills-for-front-end-back-end-developer.jpg" alt="Skills for Front-End and Back-End Developer">
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=sivakumar6678&label=Profile%20views&color=0e75b6&style=flat" alt="sivakumar6678" /> 
+    <img src="https://apptha-blog.s3.amazonaws.com/blog/wp-content/uploads/2019/11/skills-for-front-end-back-end-developer.jpg" alt="Skills for Front-End and Back-End Developer">
 </p>
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sivakumar6678" alt="sivakumar6678" />
-  </a> 
+    <img src="https://komarev.com/ghpvc/?username=sivakumar6678&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+</p>
+
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=sivakumar6678" alt="GitHub Trophy" />
+    </a> 
 </p>
 
 ---
 
-**About Me:**
+### About Me
+I am a motivated individual with a diploma in Computer Engineering from Government Polytechnic, Obulavaripalli, Kadapa district. Despite the challenges posed by the pandemic, I embarked on a journey of self-improvement and skill acquisition. Currently, I am pursuing my 3rd year in Computer Science Engineering at JNTUA College of Engineering, Kalikiri.
 
-I am a motivated individual with a diploma in Computer Engineering from Government Polytechnic, Obulavaripalli, Kadapa district. Despite the challenges posed by the pandemic, I embarked on a journey of self-improvement and skill acquisition. Currently, I am pursuing my 3rd year in CSE at JNTUA College of Engineering, Kalikiri.
-
-### 📚 Education:
+### 📚 Education
 - **Diploma in Computer Engineering** - Government Polytechnic, Obulavaripalli, Kadapa District
-- **B.Tech, Computer Science Engineering** - Jawaharlal Nehru Technological University Anantapur College of Engineering, Kalikiri
+- **B.Tech in Computer Science Engineering** - Jawaharlal Nehru Technological University Anantapur College of Engineering, Kalikiri
 
-### 💼 Experience:
+### 💼 Experience
 - **Angular Developer Intern** at Infosys Springboard (April 2024 - June 2024)
-  - Developed a registration form using Angular.
-  - Integrated front-end with back-end using Java Spring Boot and Postman for API testing.
-  - Learned and implemented security configurations in Spring Boot.
-  - Focused on front-end development and collaborated on final designs and demo presentations.
-  - Assisted team members with resolving issues and integrating components.
+    - Developed a registration form using Angular.
+    - Integrated front-end with back-end using Java Spring Boot and Postman for API testing.
+    - Implemented security configurations in Spring Boot.
+    - Focused on front-end development and collaborated on final designs and demo presentations.
+    - Assisted team members with resolving issues and integrating components.
 
-### 🔧 Skills:
-- **Web Development**: HTML, CSS, Bootstrap, JavaScript,TypeScript, PHP, MySQL
-- **Frameworks**: Angular, React , Django, Flask
-- **Design**: Adobe Photoshop,Canva
-- **Tools**: Git, GitHub, Postman
+### 🔧 Skills
 
-### 🌱 Currently Learning:
+#### Frontend:
+- HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React
+
+#### Backend:
+- PHP, MySQL, Django, Flask, Java Spring Boot
+
+#### Design:
+- Adobe Photoshop, Canva
+
+#### Tools:
+- Git, GitHub, Postman
+
+### 🌱 Currently Learning
 - Django, Flask development on Udemy and Hyperskills
 - React and Material UI
 
-### 💬 Ask me about:
+### 💬 Ask Me About
 - Angular, Bootstrap, web development
 
-### 📫 How to reach me:
-- Email: chandragarisivakumar@gmail.com
+### 🌟 My Passions and Interests
+- **Technology:** I love exploring new technologies and staying updated with the latest tech trends. My goal is to leverage technology to enhance educational outcomes and improve operational efficiency.
+- **Photography:** I enjoy capturing spontaneous moments during events, festivals, and travels, focusing on what looks visually appealing in the moment.
+- **Education:** I am passionate about using technology to revolutionize education and admin workflows, striving to create user-centric interfaces.
 
-### 👨‍💻 All of my projects are available at:
+### 📫 How to Reach Me
+- Email: [chandragarisivakumar@gmail.com](mailto:chandragarisivakumar@gmail.com)
+
+### 👨‍💻 All of My Projects
 - [github.com/sivakumar6678](https://github.com/sivakumar6678)
 
-### 😄 Pronouns:
+### 😄 Pronouns
 - He/Him
 
-### ⚡ Fun Fact:
-- I transitioned to using Ubuntu and Fedora for development due to my laptop's slow performance with Windows, and I've been loving the experience!
-- I am More woking on fedora for developement and editing in windows
+### ⚡ Fun Fact
+- I transitioned to using Ubuntu and Fedora for development due to my laptop's slow performance with Windows, and I've been loving the experience! I do most of my development on Fedora and editing on Windows.
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="banner" width="100%" /></p>
+    <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="banner" width="100%" />
+</p>
 
 ---
 
