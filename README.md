@@ -31,7 +31,7 @@ I am a motivated individual with a diploma in Computer Engineering from Governme
     - Implemented security configurations in Spring Boot.
     - Focused on front-end development and collaborated on final designs and demo presentations.
     - Assisted team members with resolving issues and integrating components.
-
+---
 ### 🔧 Skills
 
 #### Frontend:
@@ -45,7 +45,7 @@ I am a motivated individual with a diploma in Computer Engineering from Governme
 
 #### Tools:
 - Git, GitHub, Postman
-
+---
 ### 🌱 Currently Learning
 - Django, Flask development on Udemy and Hyperskills
 - React and Material UI
@@ -53,6 +53,7 @@ I am a motivated individual with a diploma in Computer Engineering from Governme
 ### 💬 Ask Me About
 - Angular, Bootstrap, web development
 
+---
 ### 🌟 My Passions and Interests
 - **Technology:** I love exploring new technologies and staying updated with the latest tech trends. My goal is to leverage technology to enhance educational outcomes and improve operational efficiency.
 - **Photography:** I enjoy capturing spontaneous moments during events, festivals, and travels, focusing on what looks visually appealing in the moment.
