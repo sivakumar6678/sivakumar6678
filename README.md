@@ -60,18 +60,7 @@ I am a motivated individual with a diploma in Computer Engineering from Governme
 - **Education:** I am passionate about using technology to revolutionize education and admin workflows, striving to create user-centric interfaces.
 
 ### 📫 How to Reach Me
-<p align="left">
-  <a href="https://linkedin.com/in/sivakumar-chandragari" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/sivakumar_csk66/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://500px.com/p/sivakumar6678" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/500px_icon.svg/1024px-500px_icon.svg.png" alt="500px" height="30" width="40" />
-  </a>
-</p>
-
+- Email: [chandragarisivakumar@gmail.com](mailto:chandragarisivakumar@gmail.com)
 ### 👨‍💻 All of My Projects
 - [github.com/sivakumar6678](https://github.com/sivakumar6678)
 
@@ -91,6 +80,12 @@ I am a motivated individual with a diploma in Computer Engineering from Governme
 <p align="left">
   <a href="https://linkedin.com/in/sivakumar-chandragari" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivakumar chandragari" height="30" width="40" />
+  </a>
+     <a href="https://www.instagram.com/sivakumar_csk66/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://500px.com/p/sivakumar6678" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/500px_icon.svg/1024px-500px_icon.svg.png" alt="500px" height="30" width="40" />
   </a>
 </p>
 
