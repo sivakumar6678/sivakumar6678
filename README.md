@@ -61,8 +61,7 @@ I am a motivated individual with a diploma in Computer Engineering from Governme
 
 ### 📫 How to Reach Me
 - Email: [chandragarisivakumar@gmail.com](mailto:chandragarisivakumar@gmail.com)
-### 👨‍💻 All of My Projects
-- [github.com/sivakumar6678](https://github.com/sivakumar6678)
+
 
 ### 😄 Pronouns
 - He/Him
