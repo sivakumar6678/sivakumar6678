@@ -35,7 +35,7 @@ I am a motivated individual with a diploma in Computer Engineering from Governme
 ### 🔧 Skills
 
 #### Frontend:
-- HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React
+- HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, Material UI
 
 #### Backend:
 - PHP, MySQL, Django, Flask, Java Spring Boot
