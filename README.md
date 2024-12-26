@@ -20,11 +20,19 @@
 ### About Me
 I am a motivated individual with a diploma in Computer Engineering from Government Polytechnic, Obulavaripalli, Kadapa district. Despite the challenges posed by the pandemic, I embarked on a journey of self-improvement and skill acquisition. Currently, I am pursuing my 3rd year in Computer Science Engineering at JNTUA College of Engineering, Kalikiri.
 
+In my professional journey, I’ve worked on diverse projects and gained experience in both frontend and backend technologies, always striving to build user-centric applications.
+
 ### 📚 Education
 - **Diploma in Computer Engineering** - Government Polytechnic, Obulavaripalli, Kadapa District
 - **B.Tech in Computer Science Engineering** - Jawaharlal Nehru Technological University Anantapur College of Engineering, Kalikiri
 
 ### 💼 Experience
+- **Frontend Developer Intern at Alzira (Dec 2024 – Present)**
+    - Collaborating on frontend designs using Angular.
+    - Enhancing UX with responsive and scalable layouts.
+    - Contributing to project management and code reviews.
+
+
 - **Angular Developer Intern** at Infosys Springboard (April 2024 - June 2024)
     - Developed a registration form using Angular.
     - Integrated front-end with back-end using Java Spring Boot and Postman for API testing.
@@ -47,7 +55,9 @@ I am a motivated individual with a diploma in Computer Engineering from Governme
 - Git, GitHub, Postman
 ---
 ### 🌱 Currently Learning
+- Exploring Angular enhancements for better project scalability.
 - Django, Flask development on Udemy and Hyperskills
+- Material UI for modern and responsive frontend design.
 - React and Material UI
 
 ### 💬 Ask Me About
