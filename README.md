@@ -22,9 +22,13 @@ I am a motivated individual with a diploma in Computer Engineering from Governme
 
 In my professional journey, I’ve worked on diverse projects and gained experience in both frontend and backend technologies, always striving to build user-centric applications.
 
+---
+
 ### 📚 Education
 - **Diploma in Computer Engineering** - Government Polytechnic, Obulavaripalli, Kadapa District
 - **B.Tech in Computer Science Engineering** - Jawaharlal Nehru Technological University Anantapur College of Engineering, Kalikiri
+
+---
 
 ### 💼 Experience
 - **Frontend Developer Intern at Alzira (Dec 2024 – Present)**
@@ -32,14 +36,15 @@ In my professional journey, I’ve worked on diverse projects and gained experie
     - Enhancing UX with responsive and scalable layouts.
     - Contributing to project management and code reviews.
 
-
-- **Angular Developer Intern** at Infosys Springboard (April 2024 - June 2024)
+- **Angular Developer Intern at Infosys Springboard (April 2024 - June 2024)**
     - Developed a registration form using Angular.
     - Integrated front-end with back-end using Java Spring Boot and Postman for API testing.
     - Implemented security configurations in Spring Boot.
     - Focused on front-end development and collaborated on final designs and demo presentations.
     - Assisted team members with resolving issues and integrating components.
+
 ---
+
 ### 🔧 Skills
 
 #### Frontend:
@@ -53,28 +58,51 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 
 #### Tools:
 - Git, GitHub, Postman
+
 ---
+
 ### 🌱 Currently Learning
 - Exploring Angular enhancements for better project scalability.
-- Django, Flask development on Udemy and Hyperskills
+- Django, Flask development on Udemy and Hyperskills.
 - Material UI for modern and responsive frontend design.
-- React and Material UI
+- React and Material UI.
+
+---
+
+### 🚀 Currently Working On
+- **Self Attendance Management System**:
+  - **Overview**: A project aimed at simplifying attendance management using GPS-based proximity and face recognition.
+  - **Technology Stack**: Django (backend), Angular (frontend), face-api.js (face recognition), and inbuilt website GPS (location tracking).
+  - **Focus**: Building core functionalities like attendance tracking, student data management, and user authentication.
+
+- **Frontend Developer Tools Website**:
+  - **Overview**: A website to assist developers with tools for selecting images, colors, gradients, and shadows.
+  - **Goal**: Simplify developers’ workflows with a single platform for visual and design resources.
+  - **Technology**: Angular for the frontend.
+
+---
 
 ### 💬 Ask Me About
 - Angular, Bootstrap, web development
 
 ---
+
 ### 🌟 My Passions and Interests
 - **Technology:** I love exploring new technologies and staying updated with the latest tech trends. My goal is to leverage technology to enhance educational outcomes and improve operational efficiency.
 - **Photography:** I enjoy capturing spontaneous moments during events, festivals, and travels, focusing on what looks visually appealing in the moment.
 - **Education:** I am passionate about using technology to revolutionize education and admin workflows, striving to create user-centric interfaces.
 
+---
+
 ### 📫 How to Reach Me
 - Email: [chandragarisivakumar@gmail.com](mailto:chandragarisivakumar@gmail.com)
 
+---
 
 ### 😄 Pronouns
 - He/Him
+
+---
 
 ### ⚡ Fun Fact
 - I transitioned to using Ubuntu and Fedora for development due to my laptop's slow performance with Windows, and I've been loving the experience! I do most of my development on Fedora and editing on Windows.
@@ -133,41 +161,4 @@ In my professional journey, I’ve worked on diverse projects and gained experie
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a> 
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
-  </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-  </a> 
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivakumar6678&show_icons=true&locale=en&v=1" alt="sivakumar6678" />
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivakumar6678&show_icons=true&locale=en&layout=compact" alt="sivakumar6678" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivakumar6678&" alt="sivakumar6678" /></p>
