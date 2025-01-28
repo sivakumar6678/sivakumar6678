@@ -23,7 +23,19 @@ I am a motivated individual with a diploma in Computer Engineering from Governme
 In my professional journey, I’ve worked on diverse projects and gained experience in both frontend and backend technologies, always striving to build user-centric applications.
 
 ---
+### 🚀 Currently Working On
+- **Advanced Attendance Management System**:
+  - **Overview**: A project aimed at simplifying attendance management using GPS-based proximity and face recognition.
+  - **Technology Stack**: Django (backend), Angular (frontend), face-api.js (face recognition), and inbuilt website GPS (location tracking).
+  - **Focus**: Building core functionalities like attendance tracking, student data management, and user authentication.
 
+- **Frontend Developer Tools Website**:
+- **Title**: Craft UI : Tools for Frontend Developer.
+  - **Overview**: A website to assist developers with tools for selecting images, colors, gradients, and shadows.
+  - **Goal**: Simplify developers’ workflows with a single platform for visual and design resources.
+  - **Technology**: Angular for the frontend.
+
+---
 ### 📚 Education
 - **Diploma in Computer Engineering** - Government Polytechnic, Obulavaripalli, Kadapa District
 - **B.Tech in Computer Science Engineering** - Jawaharlal Nehru Technological University Anantapur College of Engineering, Kalikiri
@@ -69,18 +81,6 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 
 ---
 
-### 🚀 Currently Working On
-- **Self Attendance Management System**:
-  - **Overview**: A project aimed at simplifying attendance management using GPS-based proximity and face recognition.
-  - **Technology Stack**: Django (backend), Angular (frontend), face-api.js (face recognition), and inbuilt website GPS (location tracking).
-  - **Focus**: Building core functionalities like attendance tracking, student data management, and user authentication.
-
-- **Frontend Developer Tools Website**:
-  - **Overview**: A website to assist developers with tools for selecting images, colors, gradients, and shadows.
-  - **Goal**: Simplify developers’ workflows with a single platform for visual and design resources.
-  - **Technology**: Angular for the frontend.
-
----
 
 ### 💬 Ask Me About
 - Angular, Bootstrap, web development
