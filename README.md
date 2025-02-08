@@ -83,7 +83,7 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 
 
 ### 💬 Ask Me About
-- Angular, Bootstrap, web development
+- Angular, Bootstrap, web development, Technology, Gadgets, Mobiles, Photography 
 
 ---
 
