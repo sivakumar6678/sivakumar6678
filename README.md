@@ -78,6 +78,7 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 - Django, Flask development on Udemy and Hyperskills.
 - Material UI for modern and responsive frontend design.
 - React and Material UI.
+- Angular with PrimeNG
 
 ---
 
