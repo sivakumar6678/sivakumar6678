@@ -37,14 +37,14 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 
 ---
 ### 📚 Education
-- **Diploma in Computer Engineering** - Government Polytechnic, Obulavaripalli, Kadapa District
 - **B.Tech in Computer Science Engineering** - Jawaharlal Nehru Technological University Anantapur College of Engineering, Kalikiri
+- **Diploma in Computer Engineering** - Government Polytechnic, Obulavaripalli, Kadapa District
 
 ---
 
 ### 💼 Experience
 - **Frontend Developer Intern at Alzira (Dec 2024 – Present)**
-    - Collaborating on frontend designs using Angular.
+    - Collaborating on frontend designs using React.
     - Enhancing UX with responsive and scalable layouts.
     - Contributing to project management and code reviews.
 
@@ -60,10 +60,10 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 ### 🔧 Skills
 
 #### Frontend:
-- HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, Material UI
+- HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, Material UI, PrimeNG
 
 #### Backend:
-- PHP, MySQL, Django, Flask, Java Spring Boot
+- PHP, MySQL, Django, Flask
 
 #### Design:
 - Adobe Photoshop, Canva
