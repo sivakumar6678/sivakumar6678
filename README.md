@@ -60,13 +60,13 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 ### 🔧 Skills
 
 #### Frontend:
-- HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, Material UI, PrimeNG
+- HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, Material UI, PrimeNG, scss
 
 #### Backend:
 - PHP, MySQL, Django, Flask
 
 #### Design:
-- Adobe Photoshop, Canva
+- Adobe Photoshop, Canva ,Ai tools
 
 #### Tools:
 - Git, GitHub, Postman
