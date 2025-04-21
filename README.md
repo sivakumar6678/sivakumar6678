@@ -24,10 +24,7 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 
 ---
 ### 🚀 Currently Working On
-- **Advanced Attendance Management System**:
-  - **Overview**: A project aimed at simplifying attendance management using GPS-based proximity and face recognition.
-  - **Technology Stack**: Django (backend), Angular (frontend), face-api.js (face recognition), and inbuilt website GPS (location tracking).
-  - **Focus**: Building core functionalities like attendance tracking, student data management, and user authentication.
+
 
 - **Frontend Developer Tools Website**:
 - **Title**: Code Canvas : Tools for Frontend Developer.
