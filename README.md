@@ -30,7 +30,7 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 - **Title**: Code Canvas : Tools for Frontend Developer.
   - **Overview**: A website to assist developers with tools for selecting images, colors, gradients, and shadows.
   - **Goal**: Simplify developers’ workflows with a single platform for visual and design resources.
-  - **Technology**: Angular for the frontend.
+  - **Technology**: Angular for the frontend and gemini api for AI integration.
 
 ---
 ### 📚 Education
