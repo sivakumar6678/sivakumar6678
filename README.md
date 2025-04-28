@@ -28,7 +28,7 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 
 - **Frontend Developer Tools Website**:
 - **Title**: Code Canvas : Tools for Frontend Developer.
-  - **Overview**: A website to assist developers with tools for selecting images, colors, gradients, and shadows.
+  - **Overview**: A website to assist developers with tools for selecting images, colors, gradients, and shadows and it has multiple third party tools to help most of the people.
   - **Goal**: Simplify developers’ workflows with a single platform for visual and design resources.
   - **Technology**: Angular for the frontend and gemini api for AI integration.
 
