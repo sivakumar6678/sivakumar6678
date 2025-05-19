@@ -40,7 +40,7 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 ---
 
 ### 💼 Experience
-- **Frontend Developer Intern at Alzira (Dec 2024 – Present)**
+- **Frontend Developer Intern at Alzira (Dec 2024 – April 2025)**
     - Collaborating on frontend designs using React.
     - Enhancing UX with responsive and scalable layouts.
     - Contributing to project management and code reviews.
