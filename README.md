@@ -57,10 +57,10 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 ### 🔧 Skills
 
 #### Frontend:
-- HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, Material UI, PrimeNG, scss
+- HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, Material UI, PrimeNG, SCSS
 
 #### Backend:
-- PHP, MySQL, Django, Flask
+- PHP, MySQL, Django, Flask,API Development 
 
 #### Design:
 - Adobe Photoshop, Canva ,Ai tools
@@ -76,6 +76,7 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 - Material UI for modern and responsive frontend design.
 - React and Material UI.
 - Angular with PrimeNG
+- Working with AI development and used Lovable.dev , Replit, Zencoder, ao.dev etc and developed most using single prompt
 
 ---
 
