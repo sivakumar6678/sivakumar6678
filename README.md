@@ -24,7 +24,7 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 
 ---
 ### 🚀 Currently Working On
-
+- **Bharath Economic Froum**: as a intern
 
 - **Frontend Developer Tools Website**:
 - **Title**: Code Canvas : AI Tools for Frontend Developer.
