@@ -40,7 +40,7 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 ---
 
 ### 💼 Experience
-- **Bharath Economic Froum**: as a intern
+- **Bharath Economic Froum**: as a Web developer intern with strong foundation in react , angular
 - **Frontend Developer Intern at Alzira (Dec 2024 – April 2025)**
     - Collaborating on frontend designs using React.
     - Enhancing UX with responsive and scalable layouts.
