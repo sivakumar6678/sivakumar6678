@@ -69,6 +69,9 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 #### Tools:
 - Git, GitHub, Postman
 
+#### AI Tools:
+- ChatGPT, Gemini, Lovable.dev, a0.dev, Cursor AI, Zencoder AI, Windsurf
+
 ---
 
 ### 🌱 Currently Learning
