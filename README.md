@@ -40,7 +40,7 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 ---
 
 ### 💼 Experience
-- **Bharath Economic Froum**: as a Web developer intern with strong foundation in react and angular with multiple libraries
+- **Bharath Economic Froum**: as a Web developer intern with strong foundation in react and angular with multiple libraries.
 - **Frontend Developer Intern at Alzira (Dec 2024 – April 2025)**
     - Collaborating on frontend designs using React.
     - Enhancing UX with responsive and scalable layouts.
@@ -70,7 +70,7 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 - Git, GitHub, Postman API
 
 #### AI Tools:
-- ChatGPT, Gemini, Lovable.dev, a0.dev, Cursor AI, Zencoder AI, Windsurf
+- ChatGPT, Gemini, Lovable.dev, a0.dev, Cursor AI, Zencoder AI, Windsurf, Ai Tools
 
 ---
 
