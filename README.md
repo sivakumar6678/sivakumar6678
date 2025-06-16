@@ -25,6 +25,8 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 ---
 ### 🚀 Currently Working On
 
+- **Abhi Bus Clone** using bolt and supabase
+- **Mini mart ** app for delivery
 
 - **Frontend Developer Tools Website**:
 - **Title**: Code Canvas : AI Tools for Frontend Developer.
