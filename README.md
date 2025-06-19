@@ -73,7 +73,7 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 
 #### AI Tools:
 - ChatGPT, Gemini, Lovable.dev, a0.dev, Cursor AI, Zencoder AI, Windsurf, Ai Tools
-
+,Supabase
 ---
 
 ### 🌱 Currently Learning
