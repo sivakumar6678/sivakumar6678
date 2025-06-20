@@ -1,38 +1,39 @@
 <h1 align="center">Hi 👋, I'm C. SIVA KUMAR</h1>
-<h3 align="center">A Passionate Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Web Developer | Passionate Technologist</h3>
 
 <p align="center">
-    <img src="https://apptha-blog.s3.amazonaws.com/blog/wp-content/uploads/2019/11/skills-for-front-end-back-end-developer.jpg" alt="Skills for Front-End and Back-End Developer">
+    <img src="https://apptha-blog.s3.amazonaws.com/blog/wp-content/uploads/2019/11/skills-for-front-end-back-end-developer.jpg" alt="Full Stack Developer" width="80%">
 </p>
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=sivakumar6678&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=sivakumar6678&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
-
-<p align="left"> 
+<p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=sivakumar6678" alt="GitHub Trophy" />
-    </a> 
+        <img src="https://github-profile-trophy.vercel.app/?username=sivakumar6678" alt="GitHub Trophy">
+    </a>
 </p>
 
 ---
 
 ## About Me
 
-I am a motivated individual with a diploma in Computer Engineering from Government Polytechnic, Obulavaripalli, Kadapa district. Despite the challenges posed by the pandemic, I embarked on a journey of self-improvement and skill acquisition. Currently, I am pursuing my 3rd year in Computer Science Engineering at JNTUA College of Engineering, Kalikiri.
+I am a proactive Computer Science Engineering student currently in my third year at JNTUA College of Engineering, Kalikiri, with a solid foundation from Government Polytechnic, Obulavaripalli, Kadapa district. Despite the challenges posed by the pandemic, I have consistently pursued self-improvement and technical growth.
 
-In my professional journey, I’ve worked on diverse projects and gained experience in both frontend and backend technologies, always striving to build user-centric applications.
+As a full stack web developer, I have hands-on experience across the development stack, from frontend to backend, and a strong commitment to building user-centric, scalable applications. I thrive in collaborative environments and am passionate about leveraging technology to drive innovation and efficiency.
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 Current Projects
 
-- **Abhi Bus Clone:** Building a bus booking platform using Bolt and Supabase.
-- **Mini Mart App:** Developing a delivery-focused mini-mart application.
-- **Code Canvas: AI Tools for Frontend Developer**
-  - **Overview:** A website to assist developers with tools for selecting images, colors, gradients, and shadows, integrating multiple third-party tools.
-  - **Goal:** Simplify developers’ workflows with a single platform for visual and design resources.
-  - **Technology:** Angular for the frontend and Gemini API for AI integration.
+- **Abhi Bus Clone**
+  - A bus booking platform built using Bolt and Supabase.
+- **Mini Mart App**
+  - A delivery-focused mini-mart application for seamless user experiences.
+- **Code Canvas: AI Tools for Frontend Developers**
+  - **Overview:** A comprehensive platform for developers to access image, color, gradient, and shadow tools, integrating multiple third-party resources.
+  - **Goal:** Streamline developer workflows by consolidating design and visual resources in a single platform.
+  - **Technology:** Angular (frontend), Gemini API (AI integration).
 
 ---
 
@@ -45,75 +46,67 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-- **Bharath Economic Forum:**  
-  - Web Developer Intern  
-  - Built a strong foundation in React and Angular with multiple libraries, conducted research.
-- **Frontend Developer Intern at Alzira (Dec 2024 – April 2025):**
+- **Bharath Economic Forum**  
+  - **Web Developer Intern**
+  - Developed robust foundations in React and Angular, utilizing multiple libraries and conducting in-depth research.
+- **Alzira**  
+  - **Frontend Developer Intern (Dec 2024 – April 2025)**
   - Collaborated on frontend designs using React.
-  - Enhanced UX with responsive and scalable layouts.
+  - Enhanced user experience with responsive and scalable layouts.
   - Contributed to project management and code reviews.
-- **Angular Developer Intern at Infosys Springboard (April 2024 – June 2024):**
-  - Developed a registration form using Angular.
+- **Infosys Springboard**  
+  - **Angular Developer Intern (April 2024 – June 2024)**
+  - Developed registration forms using Angular.
   - Integrated frontend with backend using Java Spring Boot and Postman for API testing.
   - Implemented security configurations in Spring Boot.
-  - Focused on frontend development and collaborated on final designs and demo presentations.
-  - Assisted team members with resolving issues and integrating components.
+  - Focused on frontend development, collaborated on final designs and demo presentations.
+  - Assisted team members with issue resolution and component integration.
 
 ---
 
-## 🔧 Skills
+## 🔧 Technical Skills
 
-### Frontend
-- **HTML, CSS, Bootstrap, JavaScript, TypeScript**
-- **Angular, React, Material UI, PrimeNG, SCSS**
-
-### Backend
-- **PHP, MySQL, Django, Flask**
-- **API Development**
-
-### Design
-- **Adobe Photoshop, Canva, AI Tools**
-
-### Tools
-- **Git, GitHub, Postman API**
-
-### AI Tools
-- **ChatGPT, Gemini, Lovable.dev, a0.dev, Cursor AI, Zencoder AI, Windsurf, Supabase**
+| Category      | Skills & Technologies                                                                 |
+|---------------|--------------------------------------------------------------------------------------|
+| Frontend      | HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, Material UI, PrimeNG, SCSS |
+| Backend       | PHP, MySQL, Django, Flask, API Development                                           |
+| Design        | Adobe Photoshop, Canva, AI Tools                                                    |
+| Tools         | Git, GitHub, Postman API                                                            |
+| AI Tools      | ChatGPT, Gemini, Lovable.dev, a0.dev, Cursor AI, Zencoder AI, Windsurf, Supabase    |
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Ongoing Learning
 
-- **Angular enhancements** for better project scalability.
-- **Django & Flask** development on Udemy and Hyperskills.
-- **Material UI** for modern, responsive frontend design.
-- **React and Material UI** integration.
-- **Angular with PrimeNG** for advanced UI components.
-- **AI development** using platforms like Lovable.dev, Replit, Zencoder, ao.dev, etc.
-
----
-
-## 💬 Ask Me About
-
-- **Angular, Bootstrap, Web Development**
-- **Technology, Gadgets, Mobiles**
-- **Photography**
+- **Angular:** Enhancing project scalability and maintainability.
+- **Django & Flask:** Advanced backend development via Udemy and Hyperskills.
+- **Material UI & PrimeNG:** Modern, responsive UI design and component integration.
+- **React:** Deepening expertise in React and Material UI.
+- **AI Development:** Exploring AI-driven solutions using Lovable.dev, Replit, Zencoder, ao.dev, and more.
 
 ---
 
-## 🌟 My Passions and Interests
+## 💬 Topics I Enjoy Discussing
 
-- **Technology:** I love exploring new technologies and staying updated with the latest tech trends. My goal is to leverage technology to enhance educational outcomes and improve operational efficiency.
-- **Photography:** I enjoy capturing spontaneous moments during events, festivals, and travels, focusing on what looks visually appealing in the moment.
-- **Education:** I am passionate about using technology to revolutionize education and admin workflows, striving to create user-centric interfaces.
+- **Web Development:** Angular, Bootstrap, React, and modern web technologies.
+- **Technology Trends:** Emerging tech, gadgets, and mobile innovations.
+- **Photography:** Techniques, gear, and creative inspiration.
 
 ---
 
-## 📫 How to Reach Me
+## 🌟 Passions & Interests
 
-- **Email:** [chandragarisivakumar@gmail.com](mailto:chandragarisivakumar911@gmail.com) *(Note: Please correct the email if needed)*
+- **Technology:** Enthusiastic about exploring new technologies and trends, with a vision to enhance education and operational efficiency through tech-driven solutions.
+- **Photography:** Passionate about capturing spontaneous moments during events, festivals, and travels.
+- **Education:** Committed to revolutionizing education and administrative workflows through intuitive, user-centric interfaces.
+
+---
+
+## 📫 Contact Me
+
+- **Email:** [chandragarisivakumar@gmail.com](mailto:chandragarisivakumar@gmail.com)
 
 ---
 
@@ -125,112 +118,99 @@ In my professional journey, I’ve worked on diverse projects and gained experie
 
 ## ⚡ Fun Fact
 
-I transitioned to using Ubuntu and Fedora for development due to my laptop's slow performance with Windows, and I've been loving the experience! I do most of my development on Fedora and editing on Windows.
-
-<p align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="banner" width="100%" />
-</p>
+I transitioned to using Ubuntu and Fedora for development due to my laptop’s slow performance with Windows—and I’ve never looked back! Most of my development now happens on Fedora, while I use Windows for editing.
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/sivakumar-chandragari" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivakumar chandragari" height="30" width="40" />
+  <a href="https://linkedin.com/in/sivakumar-chandragari" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
   </a>
-  <a href="https://www.instagram.com/sivakumar_csk66/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="https://www.instagram.com/sivakumar_csk66/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40">
   </a>
-  <a href="https://500px.com/p/sivakumar6678" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/500px_icon.svg/1024px-500px_icon.svg.png" alt="500px" height="30" width="40" />
+  <a href="https://500px.com/p/sivakumar6678" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/500px_icon.svg/1024px-500px_icon.svg.png" alt="500px" height="30" width="40">
   </a>
-  <a href="https://dev.to/sivakumar6678" target="blank">
-    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev.to" height="30" width="40" />
+  <a href="https://dev.to/sivakumar6678" target="_blank">
+    <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev.to" height="30" width="40">
   </a>
-  <a href="https://medium.com/@chandragarisivakumar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  <a href="https://medium.com/@chandragarisivakumar" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40">
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages & Tools:</h3>
 <p align="left">
-  <!-- Frontend Frameworks -->
   <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40">
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40">
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40">
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40">
   </a>
-
-  <!-- Backend Frameworks -->
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40">
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40">
   </a>
-
-  <!-- Databases -->
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40">
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
   </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40">
   </a>
-
-  <!-- Version Control -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">
   </a>
-
-  <!-- Containerization -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">
   </a>
-
-  <!-- Design Tools -->
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40">
   </a>
-
-  <!-- Programming Languages -->
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40">
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
   </a>
-
-  <!-- API Development -->
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40">
   </a>
-
-  <!-- Operating Systems -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
   </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivakumar6678&show_icons=true&locale=en&v=1" alt="sivakumar6678" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sivakumar6678&show_icons=true&locale=en&v=1" alt="GitHub Stats">
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivakumar6678&show_icons=true&locale=en&layout=compact" alt="sivakumar6678" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivakumar6678&" alt="sivakumar6678" /></p>
+<p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sivakumar6678&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+</p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivakumar6678&" alt="GitHub Streak">
+</p>
+<p align="center">
+    <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Banner" width="100%">
+</p>
