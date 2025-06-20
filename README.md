@@ -17,100 +17,115 @@
 
 ---
 
-### About Me
+## About Me
+
 I am a motivated individual with a diploma in Computer Engineering from Government Polytechnic, Obulavaripalli, Kadapa district. Despite the challenges posed by the pandemic, I embarked on a journey of self-improvement and skill acquisition. Currently, I am pursuing my 3rd year in Computer Science Engineering at JNTUA College of Engineering, Kalikiri.
 
 In my professional journey, I’ve worked on diverse projects and gained experience in both frontend and backend technologies, always striving to build user-centric applications.
 
 ---
-### 🚀 Currently Working On
 
-- **Abhi Bus Clone** using bolt and supabase
-- **Mini mart ** app for delivery
+## 🚀 Currently Working On
 
-- **Frontend Developer Tools Website**:
-- **Title**: Code Canvas : AI Tools for Frontend Developer.
-  - **Overview**: A website to assist developers with tools for selecting images, colors, gradients, and shadows and it has multiple third party tools to help most of the people.
-  - **Goal**: Simplify developers’ workflows with a single platform for visual and design resources.
-  - **Technology**: Angular for the frontend and gemini api for AI integration.
-
----
-### 📚 Education
-- **B.Tech in Computer Science Engineering** - Jawaharlal Nehru Technological University Anantapur College of Engineering, Kalikiri
-- **Diploma in Computer Engineering** - Government Polytechnic, Obulavaripalli, Kadapa District
+- **Abhi Bus Clone:** Building a bus booking platform using Bolt and Supabase.
+- **Mini Mart App:** Developing a delivery-focused mini-mart application.
+- **Code Canvas: AI Tools for Frontend Developer**
+  - **Overview:** A website to assist developers with tools for selecting images, colors, gradients, and shadows, integrating multiple third-party tools.
+  - **Goal:** Simplify developers’ workflows with a single platform for visual and design resources.
+  - **Technology:** Angular for the frontend and Gemini API for AI integration.
 
 ---
 
-### 💼 Experience
-- **Bharath Economic Froum**: as a Web developer intern with strong foundation in react and angular with multiple libraries and making the research.
-- **Frontend Developer Intern at Alzira (Dec 2024 – April 2025)**
-    - Collaborating on frontend designs using React.
-    - Enhancing UX with responsive and scalable layouts.
-    - Contributing to project management and code reviews.
+## 📚 Education
 
-- **Angular Developer Intern at Infosys Springboard (April 2024 - June 2024)**
-    - Developed a registration form using Angular.
-    - Integrated front-end with back-end using Java Spring Boot and Postman for API testing.
-    - Implemented security configurations in Spring Boot.
-    - Focused on front-end development and collaborated on final designs and demo presentations.
-    - Assisted team members with resolving issues and integrating components.
+- **B.Tech in Computer Science Engineering**  
+  Jawaharlal Nehru Technological University Anantapur College of Engineering, Kalikiri
+- **Diploma in Computer Engineering**  
+  Government Polytechnic, Obulavaripalli, Kadapa District
 
 ---
 
-### 🔧 Skills
+## 💼 Experience
 
-#### Frontend:
-- HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, Material UI, PrimeNG, SCSS
-
-#### Backend:
-- PHP, MySQL, Django, Flask,API Development 
-
-#### Design:
-- Adobe Photoshop, Canva ,Ai tools
-
-#### Tools:
-- Git, GitHub, Postman API
-
-#### AI Tools:
-- ChatGPT, Gemini, Lovable.dev, a0.dev, Cursor AI, Zencoder AI, Windsurf, Ai Tools
-,Supabase
----
-
-### 🌱 Currently Learning
-- Exploring Angular enhancements for better project scalability.
-- Django, Flask development on Udemy and Hyperskills.
-- Material UI for modern and responsive frontend design.
-- React and Material UI.
-- Angular with PrimeNG
-- Working with AI development and used Lovable.dev , Replit, Zencoder, ao.dev etc and developed most using single prompt
+- **Bharath Economic Forum:**  
+  - Web Developer Intern  
+  - Built a strong foundation in React and Angular with multiple libraries, conducted research.
+- **Frontend Developer Intern at Alzira (Dec 2024 – April 2025):**
+  - Collaborated on frontend designs using React.
+  - Enhanced UX with responsive and scalable layouts.
+  - Contributed to project management and code reviews.
+- **Angular Developer Intern at Infosys Springboard (April 2024 – June 2024):**
+  - Developed a registration form using Angular.
+  - Integrated frontend with backend using Java Spring Boot and Postman for API testing.
+  - Implemented security configurations in Spring Boot.
+  - Focused on frontend development and collaborated on final designs and demo presentations.
+  - Assisted team members with resolving issues and integrating components.
 
 ---
 
+## 🔧 Skills
 
-### 💬 Ask Me About
-- Angular, Bootstrap, web development, Technology, Gadgets, Mobiles, Photography 
+### Frontend
+- **HTML, CSS, Bootstrap, JavaScript, TypeScript**
+- **Angular, React, Material UI, PrimeNG, SCSS**
+
+### Backend
+- **PHP, MySQL, Django, Flask**
+- **API Development**
+
+### Design
+- **Adobe Photoshop, Canva, AI Tools**
+
+### Tools
+- **Git, GitHub, Postman API**
+
+### AI Tools
+- **ChatGPT, Gemini, Lovable.dev, a0.dev, Cursor AI, Zencoder AI, Windsurf, Supabase**
 
 ---
 
-### 🌟 My Passions and Interests
+## 🌱 Currently Learning
+
+- **Angular enhancements** for better project scalability.
+- **Django & Flask** development on Udemy and Hyperskills.
+- **Material UI** for modern, responsive frontend design.
+- **React and Material UI** integration.
+- **Angular with PrimeNG** for advanced UI components.
+- **AI development** using platforms like Lovable.dev, Replit, Zencoder, ao.dev, etc.
+
+---
+
+## 💬 Ask Me About
+
+- **Angular, Bootstrap, Web Development**
+- **Technology, Gadgets, Mobiles**
+- **Photography**
+
+---
+
+## 🌟 My Passions and Interests
+
 - **Technology:** I love exploring new technologies and staying updated with the latest tech trends. My goal is to leverage technology to enhance educational outcomes and improve operational efficiency.
 - **Photography:** I enjoy capturing spontaneous moments during events, festivals, and travels, focusing on what looks visually appealing in the moment.
 - **Education:** I am passionate about using technology to revolutionize education and admin workflows, striving to create user-centric interfaces.
 
 ---
 
-### 📫 How to Reach Me
-- Email: [chandragarisivakumar@gmail.com](mailto:chandragarisivakumar@gmail.com)
+## 📫 How to Reach Me
+
+- **Email:** [chandragarisivakumar@gmail.com](mailto:chandragarisivakumar911@gmail.com) *(Note: Please correct the email if needed)*
 
 ---
 
-### 😄 Pronouns
-- He/Him
+## 😄 Pronouns
+
+- **He/Him**
 
 ---
 
-### ⚡ Fun Fact
-- I transitioned to using Ubuntu and Fedora for development due to my laptop's slow performance with Windows, and I've been loving the experience! I do most of my development on Fedora and editing on Windows.
+## ⚡ Fun Fact
+
+I transitioned to using Ubuntu and Fedora for development due to my laptop's slow performance with Windows, and I've been loving the experience! I do most of my development on Fedora and editing on Windows.
 
 <p align="center">
     <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="banner" width="100%" />
@@ -175,7 +190,7 @@ In my professional journey, I’ve worked on diverse projects and gained experie
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+    <img src="github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
@@ -214,6 +229,7 @@ In my professional journey, I’ve worked on diverse projects and gained experie
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   </a>
 </p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivakumar6678&show_icons=true&locale=en&v=1" alt="sivakumar6678" />
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivakumar6678&show_icons=true&locale=en&layout=compact" alt="sivakumar6678" /></p>
