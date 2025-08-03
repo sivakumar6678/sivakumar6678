@@ -50,7 +50,7 @@ As a full stack web developer, I have hands-on experience across the development
 
 - **Bharath Economic Forum**  
   - **Web Developer Intern**
-  - Developed robust foundations in React and Angular, utilizing multiple libraries and conducting in-depth research.
+  - Developed robust foundations in React and Tailwind CSS, utilizing multiple libraries and conducting in-depth research.
 - **Alzira**  
   - **Frontend Developer Intern (Dec 2024 – April 2025)**
   - Collaborated on frontend designs using React.
