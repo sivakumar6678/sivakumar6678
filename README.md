@@ -26,8 +26,7 @@ As a full stack web developer, I have hands-on experience across the development
 
 ## 🚀 Current Projects
 
-- **Abhi Bus Clone**
-  - A bus booking platform built using Bolt and Supabase.
+
 - **Mini Mart App**
   - A delivery-focused mini-mart application for seamless user experiences.
 - **Code Canvas: AI Tools for Frontend Developers**
