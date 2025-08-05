@@ -48,8 +48,10 @@ As a full stack web developer, I have hands-on experience across the development
 ## 💼 Professional Experience
 
 - **Bharath Economic Forum**  
-  - **Web Developer Intern**
-  - Developed robust foundations in React and Tailwind CSS, utilizing multiple libraries and conducting in-depth research.
+  - **Web Developer Intern (May 2025 - August 2025)**
+  - Developed a master login/signup system supporting 17+ industries with a single authentication flow.
+  - Designed a highly interactive, animated About page with custom UI components and smooth animations.
+  - Conducted content research and contributed to recruitment funnel strategies.
 - **Alzira**  
   - **Frontend Developer Intern (Dec 2024 – April 2025)**
   - Collaborated on frontend designs using React.
