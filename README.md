@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm C. SIVA KUMAR</h1>
-<h3 align="center">Full Stack Web Developer | Passionate Technologist</h3>
+<h3 align="center">Full Stack Web Developer | Passionate Technologist witb mobile Photography</h3>
 
 <p align="center">
     <img src="https://apptha-blog.s3.amazonaws.com/blog/wp-content/uploads/2019/11/skills-for-front-end-back-end-developer.jpg" alt="Full Stack Developer" width="80%">
