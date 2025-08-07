@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm C. SIVA KUMAR</h1>
-<h3 align="center">Full Stack Web Developer | Passionate Technologist witb mobile Photography</h3>
+<h3 align="center">Full Stack Web Developer | Passionate Technologist with mobile Photography</h3>
 
 <p align="center">
     <img src="https://apptha-blog.s3.amazonaws.com/blog/wp-content/uploads/2019/11/skills-for-front-end-back-end-developer.jpg" alt="Full Stack Developer" width="80%">
@@ -18,7 +18,7 @@
 
 ## About Me
 
-I am a proactive Computer Science Engineering student currently in my third year at JNTUA College of Engineering, Kalikiri, with a solid foundation from Government Polytechnic, Obulavaripalli, Kadapa district. Despite the challenges posed by the pandemic, I have consistently pursued self-improvement and technical growth.
+I am a proactive Computer Science Engineering with recent graduate with 76%  JNTUA College of Engineering, Kalikiri, with a solid foundation from Government Polytechnic, Obulavaripalli, Kadapa district. Despite the challenges posed by the pandemic, I have consistently pursued self-improvement and technical growth.
 
 As a full stack web developer, I have hands-on experience across the development stack, from frontend to backend, and a strong commitment to building user-centric, scalable applications. I thrive in collaborative environments and am passionate about leveraging technology to drive innovation and efficiency.
 
