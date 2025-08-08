@@ -49,8 +49,9 @@ As a full stack web developer, I have hands-on experience across the development
 
 - **Bharath Economic Forum**  
   - **Web Developer Intern (May 2025 - August 2025)**
-  - Developed a master login/signup system supporting 17+ industries with a single authentication flow.
-  - Designed a highly interactive, animated About page with custom UI components and smooth animations.
+  - Built master login/signup system used across 17+ industry-specific pages with centralized routing and designed high-fidelity animated "About Us" page.
+  - Contributed to research-based funnel tasks, gathering content and competitive strategies.
+  - Supported deployment planning and contributed to static page development across verticals.
   - Conducted content research and contributed to recruitment funnel strategies.
 - **Alzira**  
   - **Frontend Developer Intern (Dec 2024 – April 2025)**
