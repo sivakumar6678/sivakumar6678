@@ -39,9 +39,9 @@ As a full stack web developer, I have hands-on experience across the development
 ## 📚 Education
 
 - **B.Tech in Computer Science Engineering**  
-  Jawaharlal Nehru Technological University Anantapur College of Engineering, Kalikiri
+  Jawaharlal Nehru Technological University Anantapur College of Engineering, Kalikiri - 8 GPA
 - **Diploma in Computer Engineering**  
-  Government Polytechnic, Obulavaripalli, Kadapa District
+  Government Polytechnic, Obulavaripalli, Kadapa District - 8.5 GPA
 
 ---
 
