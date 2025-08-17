@@ -24,18 +24,6 @@ As a **Full Stack Web Developer**, I have experience across the entire developme
 
 ---
 
-## 🚀 Current Projects
-
-- **Mini Mart App**  
-  A delivery-focused mini-mart application built for seamless user experiences.  
-
-- **Code Canvas: AI Tools for Frontend Developers**  
-  - **Overview:** A platform offering image, color, gradient, and shadow tools by integrating multiple third-party resources.  
-  - **Goal:** Streamline developer workflows by consolidating design and visual resources in a single platform.  
-  - **Technology:** Angular (frontend), Gemini API (AI integration).
-
----
-
 ## 📚 Education
 
 - **B.Tech in Computer Science Engineering** – JNTUA College of Engineering, Kalikiri | GPA: 8.0  
@@ -91,17 +79,17 @@ As a **Full Stack Web Developer**, I have experience across the entire developme
 
 ---
 
+## ⚡ Fun Fact
+
+I recently switched to **Zorin OS** for development due to better performance and stability. Most of my coding now happens on Zorin, while Windows is primarily used for design/editing tasks.
+
+---
+
 ## 📫 Contact Me
 
 - **Email:** [chandragarisivakumar@gmail.com](mailto:chandragarisivakumar@gmail.com)  
 - **Portfolio:** [https://sivakumar6678.github.io/Portfolio/](https://sivakumar6678.github.io/Portfolio/)  
 - **LinkedIn:** [https://www.linkedin.com/in/sivakumar-chandragari/](https://www.linkedin.com/in/sivakumar-chandragari/)  
-
----
-
-## ⚡ Fun Fact
-
-I switched to **Ubuntu and Fedora** for development due to slow performance on Windows—most of my coding happens on Fedora now, while Windows is primarily for design/editing tasks.
 
 ---
 
@@ -161,4 +149,3 @@ I switched to **Ubuntu and Fedora** for development due to slow performance on W
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivakumar6678" alt="GitHub Streak">
 </p>
-
