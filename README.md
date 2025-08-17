@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm C. SIVA KUMAR</h1>
-<h3 align="center">Full Stack Web Developer | Passionate Technologist with mobile Photography</h3>
+<h1 align="center">Hi 👋, I'm C. Siva Kumar</h1>
+<h3 align="center">Full Stack Web Developer | Passionate Technologist | Mobile Photography Enthusiast</h3>
 
 <p align="center">
     <img src="https://apptha-blog.s3.amazonaws.com/blog/wp-content/uploads/2019/11/skills-for-front-end-back-end-developer.jpg" alt="Full Stack Developer" width="80%">
@@ -18,53 +18,46 @@
 
 ## About Me
 
-I am a proactive Computer Science Engineering with recent graduate with 76%  JNTUA College of Engineering, Kalikiri, with a solid foundation from Government Polytechnic, Obulavaripalli, Kadapa district. Despite the challenges posed by the pandemic, I have consistently pursued self-improvement and technical growth.
+I am a proactive **Computer Science Engineer** and recent graduate from **JNTUA College of Engineering, Kalikiri**, with a solid foundation from **Government Polytechnic, Obulavaripalli**. Despite challenges during the pandemic, I’ve continuously pursued self-improvement and hands-on technical growth.
 
-As a full stack web developer, I have hands-on experience across the development stack, from frontend to backend, and a strong commitment to building user-centric, scalable applications. I thrive in collaborative environments and am passionate about leveraging technology to drive innovation and efficiency.
+As a **Full Stack Web Developer**, I have experience across the entire development stack, from frontend to backend, with a strong focus on building **user-centric, scalable applications**. I thrive in collaborative environments and enjoy leveraging technology to drive **innovation and efficiency**.
 
 ---
 
 ## 🚀 Current Projects
 
+- **Mini Mart App**  
+  A delivery-focused mini-mart application built for seamless user experiences.  
 
-- **Mini Mart App**
-  - A delivery-focused mini-mart application for seamless user experiences.
-- **Code Canvas: AI Tools for Frontend Developers**
-  - **Overview:** A comprehensive platform for developers to access image, color, gradient, and shadow tools, integrating multiple third-party resources.
-  - **Goal:** Streamline developer workflows by consolidating design and visual resources in a single platform.
+- **Code Canvas: AI Tools for Frontend Developers**  
+  - **Overview:** A platform offering image, color, gradient, and shadow tools by integrating multiple third-party resources.  
+  - **Goal:** Streamline developer workflows by consolidating design and visual resources in a single platform.  
   - **Technology:** Angular (frontend), Gemini API (AI integration).
 
 ---
 
 ## 📚 Education
 
-- **B.Tech in Computer Science Engineering**  
-  Jawaharlal Nehru Technological University Anantapur College of Engineering, Kalikiri - 8 GPA
-- **Diploma in Computer Engineering**  
-  Government Polytechnic, Obulavaripalli, Kadapa District - 8.5 GPA
+- **B.Tech in Computer Science Engineering** – JNTUA College of Engineering, Kalikiri | GPA: 8.0  
+- **Diploma in Computer Engineering** – Government Polytechnic, Obulavaripalli | GPA: 8.5  
 
 ---
 
 ## 💼 Professional Experience
 
-- **Bharath Economic Forum**  
-  - **Web Developer Intern (May 2025 - August 2025)**
-  - Built master login/signup system used across 17+ industry-specific pages with centralized routing and designed high-fidelity animated "About Us" page.
-  - Contributed to research-based funnel tasks, gathering content and competitive strategies.
-  - Supported deployment planning and contributed to static page development across verticals.
-  - Conducted content research and contributed to recruitment funnel strategies.
-- **Alzira**  
-  - **Frontend Developer Intern (Dec 2024 – April 2025)**
-  - Collaborated on frontend designs using React.
-  - Enhanced user experience with responsive and scalable layouts.
+- **Bharath Economic Forum** – Web Developer Intern (May 2025 – Aug 2025)  
+  - Built a centralized master login/signup system for 17+ industry-specific pages.  
+  - Designed high-fidelity animated pages and contributed to recruitment funnel strategies.  
+  - Assisted in deployment planning and static page development across verticals.
+
+- **Alzira** – Frontend Developer Intern (Dec 2024 – Apr 2025)  
+  - Collaborated on frontend designs using React, enhancing user experience with responsive layouts.  
   - Contributed to project management and code reviews.
-- **Infosys Springboard**  
-  - **Angular Developer Intern (April 2024 – June 2024)**
-  - Developed registration forms using Angular.
-  - Integrated frontend with backend using Java Spring Boot and Postman for API testing.
-  - Implemented security configurations in Spring Boot.
-  - Focused on frontend development, collaborated on final designs and demo presentations.
-  - Assisted team members with issue resolution and component integration.
+
+- **Infosys Springboard** – Angular Developer Intern (Apr 2024 – Jun 2024)  
+  - Developed registration forms using Angular and integrated with Spring Boot backend.  
+  - Implemented API testing with Postman and configured security settings.  
+  - Guided teammates on component integration and resolved technical issues independently.
 
 ---
 
@@ -72,55 +65,43 @@ As a full stack web developer, I have hands-on experience across the development
 
 | Category      | Skills & Technologies                                                                 |
 |---------------|--------------------------------------------------------------------------------------|
-| Frontend      | HTML, CSS, Bootstrap, JavaScript, TypeScript, Angular, React, Material UI, PrimeNG, SCSS |
+| Frontend      | HTML, CSS, SCSS, Bootstrap, JavaScript, TypeScript, Angular, React, Material UI, PrimeNG |
 | Backend       | PHP, MySQL, Django, Flask, API Development                                           |
 | Design        | Adobe Photoshop, Canva, AI Tools                                                    |
-| Tools         | Git, GitHub, Postman API                                                            |
+| Tools         | Git, GitHub, Postman API, Docker, Linux                                             |
 | AI Tools      | ChatGPT, Gemini, Lovable.dev, a0.dev, Cursor AI, Zencoder AI, Windsurf, Supabase    |
 
 ---
 
 ## 🌱 Ongoing Learning
 
-- **Angular:** Enhancing project scalability and maintainability.
-- **Django & Flask:** Advanced backend development via Udemy and Hyperskills.
-- **Material UI & PrimeNG:** Modern, responsive UI design and component integration.
-- **React:** Deepening expertise in React and Material UI.
-- **AI Development:** Exploring AI-driven solutions using Lovable.dev, Replit, Zencoder, ao.dev, and more.
+- **Frontend:** Advanced React & Angular component design, Material UI & PrimeNG integration  
+- **Backend:** Advanced Django & Flask development, API optimization  
+- **AI Development:** AI-assisted web development with Lovable.dev, Zencoder, ao.dev  
+- **UI/UX:** Modern, responsive, and accessible design practices
 
 ---
 
-## 💬 Topics I Enjoy Discussing
+## 💬 Interests & Hobbies
 
-- **Web Development:** Angular, Bootstrap, React, and modern web technologies.
-- **Technology Trends:** Emerging tech, gadgets, and mobile innovations.
-- **Photography:** Techniques, gear, and creative inspiration.
-
----
-
-## 🌟 Passions & Interests
-
-- **Technology:** Enthusiastic about exploring new technologies and trends, with a vision to enhance education and operational efficiency through tech-driven solutions.
-- **Photography:** Passionate about capturing spontaneous moments during events, festivals, and travels.
-- **Education:** Committed to revolutionizing education and administrative workflows through intuitive, user-centric interfaces.
+- **Web Development:** Angular, React, and modern frontend technologies  
+- **Technology Trends:** Emerging tech, gadgets, and AI tools  
+- **Photography:** Mobile photography, capturing creative moments  
+- **Education & Innovation:** Building tech solutions to improve workflows and learning  
 
 ---
 
 ## 📫 Contact Me
 
-- **Email:** [chandragarisivakumar@gmail.com](mailto:chandragarisivakumar@gmail.com)
-
----
-
-## 😄 Pronouns
-
-- **He/Him**
+- **Email:** [chandragarisivakumar@gmail.com](mailto:chandragarisivakumar@gmail.com)  
+- **Portfolio:** [https://sivakumar6678.github.io/Portfolio/](https://sivakumar6678.github.io/Portfolio/)  
+- **LinkedIn:** [https://www.linkedin.com/in/sivakumar-chandragari/](https://www.linkedin.com/in/sivakumar-chandragari/)  
 
 ---
 
 ## ⚡ Fun Fact
 
-I transitioned to using Ubuntu and Fedora for development due to my laptop’s slow performance with Windows—and I’ve never looked back! Most of my development now happens on Fedora, while I use Windows for editing.
+I switched to **Ubuntu and Fedora** for development due to slow performance on Windows—most of my coding happens on Fedora now, while Windows is primarily for design/editing tasks.
 
 ---
 
@@ -143,76 +124,41 @@ I transitioned to using Ubuntu and Fedora for development due to my laptop’s s
   </a>
 </p>
 
-<h3 align="left">Languages & Tools:</h3>
+---
+
+## 🛠️ Languages & Tools
+
 <p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40">
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40">
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40">
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40">
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40">
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40">
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40">
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40">
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40">
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40">
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40">
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40">
-  </a>
+  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"></a>
+  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"></a>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sivakumar6678&show_icons=true&locale=en&v=1" alt="GitHub Stats">
-</p>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sivakumar6678&show_icons=true&locale=en&layout=compact" alt="Top Languages">
-</p>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivakumar6678&" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=sivakumar6678&show_icons=true&locale=en&v=1" alt="GitHub Stats">
 </p>
 <p align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="Banner" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sivakumar6678&show_icons=true&locale=en&layout=compact" alt="Top Languages">
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivakumar6678" alt="GitHub Streak">
+</p>
+
