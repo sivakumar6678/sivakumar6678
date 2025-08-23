@@ -57,7 +57,7 @@ As a **Full Stack Web Developer**, I have experience across the entire developme
 | Backend       | PHP, MySQL, Django, Flask, API Development                                           |
 | Design        | Adobe Photoshop, Canva, AI Tools                                                    |
 | Tools         | Git, GitHub, Postman API, Docker, Linux                                             |
-| AI Tools      | ChatGPT, Gemini, Claude, Perplexity,Lovable.dev, a0.dev, Cursor AI, Zencoder AI, Windsurf, Supabase    |
+| AI Tools      | ChatGPT, Gemini, Claude, Perplexity,Lovable.dev, a0.dev, Cursor AI, Zencoder AI, Supabase    |
 
 ---
 
