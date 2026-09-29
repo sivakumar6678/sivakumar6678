@@ -66,8 +66,8 @@ As a **Full Stack Web Developer**, I have experience across the entire developme
 ## 🌱 Ongoing Learning
 
 - **Frontend:** Advanced React & Angular component design, Material UI & PrimeNG integration  
-- **Backend:** Advanced Django & Flask development, API optimization  
-- **AI Development:** AI-assisted web development with Lovable.dev, Zencoder, ao.dev  
+- **Backend:** Advanced Django & Flask development, API optimization, Node js, java   
+- **AI Development:** AI-assisted web development with antigraivty, cursor ai, omini route, Lovable.dev, Zencoder, ao.dev  
 - **UI/UX:** Modern, responsive, and accessible design practices
 
 ---
