@@ -33,6 +33,8 @@ As a **Full Stack Web Developer**, I have experience across the entire developme
 
 ## 💼 Professional Experience
 
+- **Rooman Technologies PVT ltd**- Trinee Project Mentor (Dec 2025 - Present)
+
 - **Bharath Economic Forum** – Web Developer Intern (May 2025 – Aug 2025)  
   - Built a centralized master login/signup system for 17+ industry-specific pages.  
   - Designed high-fidelity animated pages and contributed to recruitment funnel strategies.  
